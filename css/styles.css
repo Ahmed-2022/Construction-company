@@ -1,0 +1,1377 @@
+/*.....................*/
+/* Start sec_01 sytle */
+/*.....................*/
+.navbar-light .navbar-toggler {
+    background-color: #FFCB0F;
+}
+
+#sec_01 .title_compay {
+    font-size: 15px;
+}
+
+#sec_01 .navbar-light .navbar-nav .nav-link {
+    color: black !important;
+}
+
+#sec_01 .bg-light {
+    background-color: #FFCB0F !important;
+}
+
+#sec_01 .navbar {
+    padding: 0rem 0rem !important;
+}
+
+
+
+/*.....................*/
+/* End sec_01 sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start sec_02 sytle */
+/*.....................*/
+
+#sec_02 .bg-dark {
+    background-color: #222533 !important;
+    padding-bottom: 17px;
+
+}
+
+#sec_02 .Construction {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    animation: tracking-in-contract 2.2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+
+}
+
+@keyframes tracking-in-contract {
+    0% {
+        letter-spacing: 1em;
+        opacity: 0;
+    }
+
+    40% {
+        opacity: 0.6;
+    }
+
+    100% {
+        letter-spacing: normal;
+        opacity: 1;
+    }
+}
+
+
+#sec_02 .first_animation .zwei_animation {
+    animation: slide-in-bottom 0.9s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+@keyframes slide-in-bottom {
+    0% {
+        transform: translateY(1000px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+#sec_02 .Construction,
+.lorem {
+    margin-bottom: -0.2rem !important;
+}
+
+/*.....................*/
+/* End sec_02 sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start sec_03sytle */
+/*.....................*/
+
+#sec_03 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("../Images/banner.jpg") no-repeat center center;
+}
+
+
+#sec_03 .text_index_head {
+    height: auto;
+}
+
+#sec_03 .Ein_text_header {
+    font-size: 15px;
+}
+
+#sec_03 .zwei_gelb_text_header {
+    font-size: 15px;
+}
+
+#sec_03 article>h2 {
+    font-size: 14px;
+    margin-top: 38px;
+
+}
+
+#sec_03 .drei_text_header {
+    padding: 0px 27px 0px 27px;
+    font-size: 10px;
+    margin-bottom: 15px;
+
+}
+
+#sec_03 .text_index_head {
+    height: auto;
+}
+
+#sec_03 .Ein_text_header {
+    font-size: 15px;
+}
+
+#sec_03 .zwei_gelb_text_header {
+    font-size: 15px;
+    color: #FFCB0F;
+
+}
+
+#sec_03 article>h2 {
+    font-size: 14px;
+    margin-top: 38px;
+
+}
+
+#sec_03 .drei_text_header {
+    padding: 0px 27px 0px 27px;
+    font-size: 10px;
+    margin-bottom: 15px;
+
+}
+
+#sec_03 .veir_text_header {
+    margin-bottom: 50px;
+}
+
+
+
+
+#sec_03 .veir_text_header a {
+    background-color: black;
+    color: #FFCB0F;
+    border: 1px solid #FFCB0F;
+    font-size: 9px;
+    margin-right: 19px;
+    padding: 4px 7px 4px 7px;
+}
+
+#sec_03 .veir_text_header a:hover {
+    text-decoration: none;
+    color: black;
+    background: #FFCB0F;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+
+
+
+/*.....................*/
+/* End sec_03sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_04sytle */
+/*.....................*/
+
+#sec_04 .Text_our_company {
+    padding: 10px;
+    text-align: center;
+
+}
+
+#sec_04 .Text_our_company h2 {
+    color: #FFCB0F;
+    font-size: 28px;
+    font-weight: 800;
+
+
+}
+
+#sec_04 .Text_our_company h4 {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+#sec_04 .Text_our_company p {
+    padding-top: 8px;
+    text-align: justify;
+    font-size: 14px;
+
+}
+
+#sec_04 .Text_our_company a {
+    color: white;
+    background-color: #FFCB0F;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 13px;
+}
+
+
+#sec_04 .Text_our_company a:hover {
+    text-decoration: none;
+    color: black;
+    background: #FFCB0F;
+    border-top: 3px solid rgba(0, 0, 0, 0.63);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.63);
+
+}
+
+/*.....................*/
+/* End sec_04sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_05sytle */
+/*.....................*/
+#sec_05 {
+
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../Images/bg4.jpg");
+    background-size: cover;
+    background-position: center;
+    border-top: 2px solid white;
+    margin-bottom: 53px;
+
+}
+
+#sec_05 .circle_img_card {
+    width: 35%;
+    left: 58px;
+    bottom: 155px;
+    min-height: 67px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #FFCB0F;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#sec_05 .circle_img_card:hover {
+    animation: jello-diagonal-1 0.8s both;
+}
+
+@keyframes jello-diagonal-1 {
+    0% {
+        transform: skew(0deg 0deg);
+    }
+
+    30% {
+        transform: skew(25deg 25deg);
+    }
+
+    40% {
+        transform: skew(-15deg, -15deg);
+    }
+
+    50% {
+        transform: skew(15deg, 15deg);
+    }
+
+    65% {
+        transform: skew(-5deg, -5deg);
+    }
+
+    75% {
+        transform: skew(5deg, 5deg);
+    }
+
+    100% {
+        -webkit-transform: skew(0deg 0deg);
+        transform: skew(0deg 0deg);
+    }
+}
+
+#sec_05 .card-title {
+    color: #FFCB0F;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+#sec_05 .card {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    color: white;
+    border-radius: 10px;
+    padding-top: 20px;
+    font-size: 15px;
+
+}
+
+#sec_05 .pb-8 {
+    padding-bottom: 7rem !important;
+}
+
+#sec_05 .card-img-top {
+    width: 36% !important;
+}
+
+
+#sec_05 .Text_choose_us h2 {
+    color: #FFCB0F;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+
+#sec_05 .Text_choose_us p {
+    color: white;
+    text-align: center;
+}
+
+/*.....................*/
+/* End sec_05sytle */
+/*.....................*/
+
+
+/*.....................*/
+/* Start sec_06sytle */
+/*.....................*/
+
+#sec_06 .container>h2 {
+    font-family: sans-serif;
+    font-weight: 800;
+    color: #484848;
+}
+
+#sec_06 .card-body {
+    flex: 0 0 auto !important;
+}
+
+#sec_06 .overlay_smal_card {
+    background-image: url("../Images/card1.jpg");
+    min-height: 250px;
+    align-items: flex-end;
+
+}
+
+#sec_06 .overlay_smal_card span {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 16px;
+    font-family: sans-serif;
+    font-weight: 800;
+    width: 100%;
+    font-size: 19px;
+}
+
+#sec_06 .card {
+    width: 20rem;
+    border: 1px solid #FFCB0F;
+}
+
+#sec_06 .card-body a {
+    color: white;
+    background-color: #FFCB0F !important;
+    font-family: sans-serif;
+    font-size: 12px;
+
+}
+
+#sec_06 .card-body .btn-primary {
+    border-color: #FFCB0F !important;
+
+}
+
+#sec_06 .card-body .btn-primary:focus,
+.btn-primary.focus .btn-primary {
+    box-shadow: 0 0 0 0.2rem RGB(255, 203, 15) !important;
+
+}
+
+#sec_06 .card-body .btn-primary:hover {
+    color: black;
+}
+
+
+
+
+/*.....................*/
+/* End sec_06sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_07 sytle */
+/*.....................*/
+
+#sec_07 {
+    background: linear-gradient(RGB(91, 94, 91, 0.8), RGB(91, 94, 91, 0.8)), url("../Images/bg2.jpg");
+    background-size: cover;
+    background-position: center;
+    border-top: 2px solid white;
+
+}
+
+
+
+#sec_07 .vier_img_half_section {
+    padding-bottom: 50px;
+
+}
+
+#sec_07 .Text_choose_us h2 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 800;
+    padding-top: 20px;
+
+}
+
+#sec_07 .Text_choose_us p {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+
+}
+
+#sec_07 .Text_choose_us a {
+    color: white;
+    font-size: 11px;
+}
+
+#sec_07 .Text_choose_us .links {
+    padding-bottom: 30px;
+    text-align: center;
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+
+#sec_07 .Text_choose_us .links a:hover {
+    text-decoration: none;
+    color: #FFCB0F !important;
+    border-bottom: 2px solid;
+    border-top: 2px solid;
+
+}
+
+#sec_07 .Text_choose_us .Show_all {
+    background-color: #0000008c;
+    padding: 9px;
+    border-radius: 61px;
+}
+
+#sec_07 .big_imag {
+    width: 94%;
+}
+
+.animat_card:hover {
+    animation: heartbeat 2.5s ease-in-out both;
+}
+
+@keyframes heartbeat {
+    from {
+        transform: scale(1);
+        transform-origin: center center;
+        animation-timing-function: ease-out;
+    }
+
+    10% {
+        transform: scale(0.91);
+        animation-timing-function: ease-in;
+    }
+
+    17% {
+        transform: scale(0.98);
+        animation-timing-function: ease-out;
+    }
+
+    33% {
+        transform: scale(0.87);
+        animation-timing-function: ease-in;
+    }
+
+    45% {
+        transform: scale(1);
+        animation-timing-function: ease-out;
+    }
+}
+
+/*.....................*/
+/* End sec_07 sytle */
+/*.....................*/
+/*.....................*/
+/* Start sec_08 sytle */
+/*.....................*/
+
+#sec_08 {
+    background-image: url("../Images/bg3.jpg");
+    background-size: cover;
+    background-position: center;
+    border-top: 2px solid white;
+}
+
+#sec_08 .Text_choose_us h2 {
+    color: #484848;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 800;
+    padding-top: 20px;
+
+}
+
+#sec_08 .Text_choose_us p {
+    color: #5b5b5b;
+    text-align: center;
+    padding-bottom: 26px;
+
+}
+
+#sec_08 .Easy_card1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+#sec_08 .Easy_card2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+
+}
+
+#sec_08 .Easy_card3 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+
+}
+
+#sec_08 .card {
+    border: none;
+    background-color: transparent;
+    padding-bottom: 50px;
+
+}
+
+#sec_08 .card-body {
+    padding: 0rem;
+}
+
+#sec_08 .card-body .clip_path1 {
+    padding: 35px 26px 32px 60px;
+    background-color: #e7e2e2e0;
+    font-size: 15px;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 96%, 57% 96%, 51% 100%, 45% 96%, 0 96%);
+}
+
+#sec_08 .card-body .clip_path2 {
+    padding: 35px 26px 32px 60px;
+    background-color: #FFCB0F;
+    font-size: 15px;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 96%, 57% 96%, 51% 100%, 45% 96%, 0 96%);
+}
+
+#sec_08 .card-body .clip_path3 {
+    padding: 35px 26px 32px 60px;
+    background-color: #e7e2e2e0;
+    font-size: 15px;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 96%, 57% 96%, 51% 100%, 45% 96%, 0 96%);
+}
+
+#sec_08 .card-body img {
+    border-radius: 50%;
+    width: 33%;
+    margin-left: 33%;
+}
+
+#sec_08 .card-body img:hover {
+    animation: jello-diagonal-2 0.8s both;
+}
+
+@keyframes jello-diagonal-2 {
+    0% {
+        transform: skew(0deg 0deg);
+    }
+
+    30% {
+        transform: skew(-25deg -25deg);
+    }
+
+    40% {
+        transform: skew(15deg, 15deg);
+    }
+
+    50% {
+        transform: skew(-15deg, -15deg);
+    }
+
+    65% {
+        transform: skew(5deg, 5deg);
+    }
+
+    75% {
+        transform: skew(-5deg, -5deg);
+    }
+
+    100% {
+        -webkit-transform: skew(0deg 0deg);
+        transform: skew(0deg 0deg);
+    }
+}
+
+#sec_08 .card-body p img {
+    width: 12%;
+    position: absolute;
+    right: 84%;
+}
+
+/*.....................*/
+/* End sec_08 sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_09 sytle */
+/*.....................*/
+
+#sec_09 {
+    background-color: #FFCB0F;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-bottom: 36px solid #7d828a;
+
+}
+
+#sec_09 article {
+    margin-top: 10px;
+
+}
+
+#sec_09 article h2 {
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: #656769;
+}
+
+#sec_09 article h3 {
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #656769;
+}
+
+#sec_09 aside form .Name {
+    border: 0px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    height: 35px;
+    width: 100%;
+
+
+}
+
+#sec_09 aside form .Email {
+    border: 0px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    height: 35px;
+    width: 100%;
+
+
+}
+
+#sec_09 aside form .Text {
+    border: 0px;
+    border-radius: 5px;
+    height: 35px;
+    width: 100%;
+
+
+
+}
+
+#sec_09 aside form .Submit {
+    border-radius: 5px;
+    height: 35px;
+    width: 100%;
+    margin-top: 8px;
+    border: 0px;
+    color: white;
+    background-color: #7d828a;
+}
+
+/*.....................*/
+/* End sec_09 sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_10 sytle */
+/*.....................*/
+
+
+#sec_10 {
+    background: linear-gradient(RGB(26, 28, 39, 0.9), RGB(26, 28, 39, 0.9)), url("../Images/bg2.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 50px;
+    padding-bottom: 85px;
+    color: white;
+
+}
+
+#sec_10 .First_Row {
+    font-size: 16px;
+    text-align: center;
+}
+
+#sec_10 .First_Row h2 {
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family: system-ui;
+    font-weight: 100;
+    margin-top: 40px;
+}
+
+#sec_10 .First_Row h3 {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 0rem !important;
+    margin-top: 35px;
+    color: #FFCB0F;
+}
+
+#sec_10 .First_Row h4 {
+    color: #6c757d !important;
+    font-size: 20px;
+    margin-top: -6px;
+}
+
+#sec_10 .First_Row p {
+    padding: 5px 32px 0px 75px;
+}
+
+#sec_10 .First_Row span .facebook {
+    background-color: #FFCB0F;
+    padding: 10px;
+    color: black;
+    border-radius: 55%;
+}
+
+#sec_10 .First_Row span .twitter {
+    background-color: #FFCB0F;
+    padding: 10px;
+    color: black;
+    border-radius: 55%;
+}
+
+#sec_10 .First_Row span .behance {
+    background-color: #FFCB0F;
+    padding: 10px;
+    color: black;
+    border-radius: 55%;
+}
+
+#sec_10 .First_Row span .basctball {
+    background-color: #FFCB0F;
+    padding: 10px;
+    color: black;
+    border-radius: 55%;
+}
+
+#sec_10 .First_Row span .linked {
+    background-color: #FFCB0F;
+    padding: 10px;
+    color: black;
+    border-radius: 55%;
+}
+
+#sec_10 .First_Row span .youtube {
+    background-color: #FFCB0F;
+    padding: 10px;
+    color: black;
+    border-radius: 55%;
+}
+
+#sec_10 .First_Row span a {
+    color: white;
+    padding-right: 10px;
+}
+
+#sec_10 .Zwei_Row .links_footer {
+    display: flex;
+    flex-direction: column;
+}
+
+#sec_10 .Zwei_Row .links_footer a:hover {
+    text-decoration: none;
+}
+
+#sec_10 .Zwei_Row .links_footer span {
+    font-size: 20px;
+}
+
+#sec_10 .Zwei_Row .links_footer a {
+    color: white;
+    margin-top: 15px;
+
+}
+
+#sec_10 .Zwei_Row h2 {
+    font-size: 15px;
+    text-transform: capitalize;
+    margin-top: 40px;
+
+}
+
+#sec_10 .drei_Row a {
+    color: white;
+}
+
+#sec_10 .drei_Row .aug20 {
+    height: 42px;
+    width: 42px;
+    border: 2px solid white;
+    border-radius: 77px;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 15px;
+
+}
+
+#sec_10 .drei_Row h2 {
+    font-size: 15px;
+    text-transform: capitalize;
+    margin-top: 40px;
+
+}
+
+#sec_10 .drei_Row .circle_totle_footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#sec_10 .drei_Row h6 {
+    font-size: 12px;
+    text-align: center;
+    margin-top: -10px;
+
+}
+
+#sec_10 .vier_Row h2 {
+    font-size: 15px;
+    text-transform: capitalize;
+    margin-top: 40px;
+}
+
+#sec_10 .vier_Row .links_footer {
+    display: flex;
+    flex-direction: column;
+}
+
+
+#sec_10 .vier_Row .links_footer a {
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+
+
+}
+
+
+/*.....................*/
+/* End sec_10 sytle */
+/*.....................*/
+
+/*.....................*/
+/* Start sec_11 sytle */
+/*.....................*/
+
+
+#sec_11 {
+    background-color: #1A1C27;
+    padding: 20px;
+    color: white;
+
+
+}
+
+/*.....................*/
+/* End sec_11 sytle */
+/*.....................*/
+
+
+
+/*
+Extra small devices (portrait phones, less than 576 px)
+Nomedia query since this is the default if you use "mobile first"*/
+
+@media (min-width: 450px) {
+    #sec_01 .repot_title {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        width: 100%;
+    }
+
+    #sec_01 .repot_title a {
+        font-size: 11px;
+    }
+
+    #sec_01 .social_media {
+        width: 100%;
+    }
+
+    #sec_01 .social_media li {
+        justify-content: center;
+    }
+
+    #sec_01 .social_media li a {
+        padding-right: 15px;
+    }
+
+    #sec_02 .style_nav_a a {
+        text-align: center;
+        border-bottom: 1px solid #FFCB0F !important;
+    }
+
+    #sec_07 .Ein_img_half_section img {
+        margin-top: 10px;
+    }
+
+    #sec_07 .zwei_img_half_section img {
+        margin-top: 10px;
+    }
+
+    #sec_07 .drei_img_half_section img {
+        margin-top: 10px;
+
+    }
+
+    #sec_07 .vier_img_half_section img {
+        margin-top: 10px;
+
+    }
+
+}
+
+@media (min-width: 576px) {
+    #sec_01 .repot_title a {
+        font-size: 15px;
+    }
+
+    #sec_10 .vier_Row .links_footer a {
+        font-size: 12px;
+    }
+
+    #sec_10 .vier_Row h2,
+    #sec_10 .drei_Row h2,
+    #sec_10 .Zwei_Row h2 {
+        font-size: 19px;
+    }
+
+
+
+
+
+}
+
+@media (min-width: 768px) {
+    #sec_01 .repot_title a {
+        font-size: 20px;
+    }
+
+    #sec_03 .zwei_gelb_text_header {
+        font-size: 30px;
+    }
+
+    #sec_03 .Ein_text_header {
+        font-size: 25px;
+    }
+
+    #sec_03 article>h2 {
+        font-size: 19px;
+    }
+
+    #sec_03 .drei_text_header {
+        padding: 0px 90px 0px 90px;
+        font-size: 11px;
+    }
+
+    #sec_03 .veir_text_header a {
+        font-size: 12px;
+    }
+
+    #sec_04 .Text_our_company h2 {
+        font-size: 22px;
+    }
+
+    #sec_04 .Text_our_company h4 {
+        font-size: 13px;
+    }
+
+    #sec_04 .Text_our_company {
+        text-align: center;
+
+    }
+
+    #sec_06 .overlay_smal_card span {
+        font-size: 12px;
+    }
+
+    #sec_06 .card-body p {
+        font-size: 12px;
+    }
+
+    #sec_07 .Text_choose_us a {
+        font-size: 17px;
+    }
+
+    #sec_07 .Text_choose_us .Show_all {
+        padding: 5px 17px 7px 17px;
+    }
+
+    #sec_07 .Text_choose_us p {
+        font-size: 16px;
+
+    }
+
+
+    #sec_09 aside form .Name {
+        width: 37%;
+
+
+    }
+
+    #sec_09 aside form .Email {
+        width: 49%;
+
+
+    }
+
+    #sec_09 aside form .Text {
+        width: 55%;
+
+
+
+    }
+
+    #sec_09 aside form .Submit {
+        width: 31%;
+        margin-top: 0px;
+    }
+
+
+    #sec_09 aside .Form {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    #sec_10 .First_Row p {
+        padding: 5px 35px 0px 23px;
+    }
+
+
+
+    #sec_10 .vier_Row h2,
+    #sec_10 .drei_Row h2,
+    #sec_10 .Zwei_Row h2 {
+        font-size: 22px;
+        font-weight: 200;
+    }
+
+    #sec_10 .vier_Row .links_footer a {
+        font-size: 15px;
+    }
+
+    #sec_10 .Zwei_Row .links_footer a {
+        margin-top: 18px;
+    }
+
+    #sec_10 .drei_Row .circle_totle_footer {
+        align-items: flex-start;
+        position: relative;
+    }
+
+    #sec_10 .drei_Row h6 {
+        font-size: 14px;
+        position: absolute;
+        left: 42px;
+        top: 30px;
+        width: 316%;
+    }
+
+
+
+
+}
+
+@media (min-width: 992px) {
+    #sec_01 .social_media ul {
+        justify-content: flex-end;
+    }
+
+    #sec_01 .repot_title a {
+        font-size: 15px;
+    }
+
+    #sec_02 .style_nav_a a {
+        text-align: center;
+        border-bottom: none !important;
+    }
+
+
+    #sec_02 .style_nav_a a:hover {
+        border-bottom: 1px solid #FFCB0F !important;
+        border-top: 1px solid #FFCB0F !important;
+
+    }
+
+    #sec_03 .drei_text_header {
+        padding: 0px 220px 0px 220px;
+        font-size: 12px;
+    }
+
+    #sec_03 .zwei_gelb_text_header {
+        font-size: 40px;
+    }
+
+    #sec_03 .Ein_text_header {
+        font-size: 33px;
+    }
+
+    #sec_03 article>h2 {
+        font-size: 25px;
+    }
+
+    #sec_04 .Text_our_company h2 {
+        text-align: start;
+        font-size: 30px;
+        font-family: sans-serif;
+    }
+
+    #sec_04 .Text_our_company h4 {
+        text-align: start;
+        font-size: 18px;
+        color: #484848;
+
+
+    }
+
+    #sec_04 .Text_our_company a {
+        text-align: start;
+        font-size: 16px;
+
+    }
+
+    #sec_04 .Text_our_company p {
+        margin-bottom: 1.3rem !important;
+    }
+
+    #sec_04 .Text_our_company {
+        text-align: start;
+
+    }
+
+    #sec_07 .big_imag {
+        padding-bottom: 70px;
+
+
+    }
+
+    #sec_07 .Ein_img_half_section img {
+        width: 100%;
+        margin-top: auto;
+    }
+
+    #sec_07 .zwei_img_half_section img {
+        width: 100%;
+        margin-top: auto;
+
+    }
+
+    #sec_07 .drei_img_half_section img {
+        width: 100%;
+        margin-top: 25px;
+        padding-bottom: 70px;
+
+
+
+    }
+
+    #sec_07 .vier_img_half_section img {
+        width: 100%;
+        margin-top: 25px;
+
+
+    }
+
+    #sec_09 article h2 {
+        font-size: 20px;
+    }
+
+    #sec_09 article h3 {
+        font-size: 26px;
+    }
+
+    #sec_10 .First_Row p {
+        padding: 5px 4px 0px 7px;
+    }
+
+    #sec_10 .Zwei_Row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #sec_10 .First_Row span a {
+        padding-right: 0px;
+        font-size: 12px;
+
+    }
+
+    #sec_10 .vier_Row h2,
+    #sec_10 .drei_Row h2 {
+        margin-left: 28px;
+    }
+
+}
+
+@media (min-width: 1200px) {
+    #sec_03 .text_index_head {
+        height: 100vh;
+    }
+
+    #sec_03 .Ein_text_header {
+        font-size: 65px;
+    }
+
+    #sec_03 .zwei_gelb_text_header {
+        font-size: 73px;
+    }
+
+    #sec_03 .drei_text_header {
+        padding: 0px 230px 0px 230px;
+        margin-bottom: 50px;
+        font-size: 15px;
+
+    }
+
+    #sec_03 .veir_text_header a {
+        margin-right: 31px;
+        padding: 8px 22px 8px 22px;
+        font-weight: 700;
+
+    }
+
+    #sec_03 article>h2 {
+        margin-top: -28px;
+
+    }
+
+    #sec_04 .Text_our_company h2 {
+        font-size: 36px;
+    }
+
+    #sec_05 .circle_img_card {
+        width: 44%;
+        left: 58px;
+        bottom: 152px;
+        min-height: 80px;
+    }
+
+    #sec_06 .card {
+        width: auto;
+    }
+
+    #sec_06 .card-body p {
+        font-size: 14px;
+    }
+
+    #sec_06 .overlay_smal_card span {
+        font-size: 18px;
+    }
+
+    #sec_06 .card-body a {
+        font-size: 15px;
+    }
+
+    #sec_07 .big_imag {
+        width: auto;
+        margin-top: auto;
+        margin-right: 27px;
+        padding-bottom: 100px;
+
+
+    }
+
+    #sec_07 .Ein_img_half_section img {
+        width: auto;
+        margin-top: auto;
+    }
+
+    #sec_07 .zwei_img_half_section img {
+        width: auto;
+        margin-top: auto;
+        margin-left: 27px;
+
+
+    }
+
+    #sec_07 .drei_img_half_section img {
+        width: auto;
+        margin-top: 13px;
+        padding-bottom: 100px;
+
+
+    }
+
+    #sec_07 .vier_img_half_section img {
+        width: auto;
+        margin-top: 13px;
+        margin-left: 27px;
+
+
+
+    }
+
+    #sec_09 article h2 {
+        font-size: 26px;
+    }
+
+    #sec_09 article h3 {
+        font-size: 33px;
+    }
+
+    #sec_10 .First_Row p {
+        padding: 5px 24px 0px 25px;
+    }
+
+    #sec_10 .First_Row span a {
+        font-size: 17px;
+    }
+
+
+    #sec_10 .Zwei_Row .links_footer a {
+        margin-top: 8px;
+        font-size: 17px;
+    }
+
+}
